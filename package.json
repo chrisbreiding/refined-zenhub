@@ -1,0 +1,11 @@
+{
+  "name": "refined-zenhub",
+  "private": true,
+  "scripts": {
+    "server": "http-server"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-plugin-crb": "1.0.0"
+  }
+}
