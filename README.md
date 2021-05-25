@@ -1,4 +1,4 @@
-# Refined ZenHub
+# <img src="extension/icon.png" width="45" align="left"> Refined ZenHub
 
 A browser extension for enhancing ZenHub. Namely, it makes it more Kanban-friendly by doing the following:
 
